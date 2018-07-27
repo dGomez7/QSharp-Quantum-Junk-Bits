@@ -1,0 +1,11 @@
+C:\Users\daniel\source\repos\Bell\Bell\bin\Debug\netcoreapp2.0\Bell.deps.json
+C:\Users\daniel\source\repos\Bell\Bell\bin\Debug\netcoreapp2.0\Bell.runtimeconfig.json
+C:\Users\daniel\source\repos\Bell\Bell\bin\Debug\netcoreapp2.0\Bell.runtimeconfig.dev.json
+C:\Users\daniel\source\repos\Bell\Bell\bin\Debug\netcoreapp2.0\Bell.dll
+C:\Users\daniel\source\repos\Bell\Bell\bin\Debug\netcoreapp2.0\Bell.pdb
+C:\Users\daniel\source\repos\Bell\Bell\obj\Debug\netcoreapp2.0\Bell.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\Bell\Bell\obj\Debug\netcoreapp2.0\Bell.AssemblyInfoInputs.cache
+C:\Users\daniel\source\repos\Bell\Bell\obj\Debug\netcoreapp2.0\Bell.AssemblyInfo.cs
+C:\Users\daniel\source\repos\Bell\Bell\obj\Debug\netcoreapp2.0\Bell.dll
+C:\Users\daniel\source\repos\Bell\Bell\obj\Debug\netcoreapp2.0\Bell.pdb
+C:\Users\daniel\source\repos\Bell\Bell\obj\Debug\netcoreapp2.0\Bell.csprojResolveAssemblyReference.cache
